@@ -109,5 +109,5 @@ Azure Virtual Machines give you the adjustability of virtualization without havi
 
 <h3>Tip</h3>
 
--  If you want to save your free $200 credits, make sure you delete ALL resource groups after finishing!    
+-  If you are using the $200 free credit with your current Azure account make sure to delete all resources once finished. 
   
